@@ -1,0 +1,17 @@
+div {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+mat-card {
+    width: 50%;
+}
+
+mat-list-item:hover {
+    background-color: #E0E0E0;
+    border-radius: 5px;
+    cursor: pointer;
+}
